@@ -4,11 +4,12 @@
 
 _Approch to solve calculus Problem with python_
 
-- ** Diferential Application **
+- Diferential Application
 
-- ** Applications of the integral **
+- Applications of the integral
 
-- ** Transcendenral functions **
+- Transcendenral functions
 
-- ** Multiple Integral ** 
+- Multiple Integral 
+
 
