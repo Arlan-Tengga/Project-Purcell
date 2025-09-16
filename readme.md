@@ -2,4 +2,13 @@
 
 ![banner](.github/background.png)
 
-Project kalkulus use python
+_Approch to solve calculus Problem with python_
+
+- ** Diferential Application **
+
+- ** Applications of the integral **
+
+- ** Transcendenral functions **
+
+- ** Multiple Integral ** 
+
